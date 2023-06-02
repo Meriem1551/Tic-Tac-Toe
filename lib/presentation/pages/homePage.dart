@@ -154,7 +154,7 @@ class _GameScreenState extends State<GameScreen> {
                         'Start',
                         style: TextStyle(
                             fontSize: 25,
-                            color: Color.fromARGB(225, 225, 225, 225)),
+                            color: Color.fromARGB(255, 255, 255, 255)),
                       )),
                 ],
               )),
